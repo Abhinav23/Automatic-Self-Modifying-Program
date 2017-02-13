@@ -1,4 +1,4 @@
-# FluidArtificalIntelligence
+# S.M Prototype
 Program to self write
 Genetic algorithm able to automatically generate programs in the Brainfuck. 
 Successfull Programs: hello world, hello , addition, subtraction, reversing a string, fibonnaci sequence,etc. 
